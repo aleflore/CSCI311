@@ -1,0 +1,26 @@
+insert 500 a
+insert 450 b
+insert 550 c
+find 500
+insert 475 d
+insert 490 k
+insert 700 p
+delete 700 p
+insert 650 n
+insert 540 w
+insert 900 p
+insert 300 a
+delete 700 p
+insert 320 n
+insert 300 vc
+insert 444 ;
+insert 221 q
+insert 201 e
+insert 100 u
+insert 300 yahoo
+insert 889 y
+delete 700 p
+insert 700 p
+find 700
+print
+quit
